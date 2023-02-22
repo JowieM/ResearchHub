@@ -245,7 +245,7 @@ div#word-mark h1 a {
 
 #hero-section {
   width: 100vw;
-  background: url(../images/banner.jpg) no-repeat center;
+  background: url() no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 0;
@@ -397,7 +397,7 @@ section {
 
 
 .banner {
-    background: url(../images/banner.jpg)no-repeat center;
+    background: url(../images/researchhero.png)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -636,7 +636,7 @@ ul.partners-icon li i {
 }
 /*-- banner bottom --*/
 
-/*-- why choose us --*/
+/*-- why AboutUs us --*/
 h3.heading {
     font-size: 45px;
     font-weight: 600;
@@ -673,7 +673,7 @@ h3.heading {
 .f1{
     box-shadow: 7px 7px 10px 0 rgba(76, 110, 245, .1);
 }
-/*-- why choose us --*/
+/*-- why AboutUs us --*/
 
 /*-- quote --*/
 .quote{
@@ -1696,3 +1696,27 @@ ul.d-flex li i {
 }
 
 /*-- //Responsive design --*/
+
+/*-- Particles.js --*/
+
+
+
+#particles-js {
+   
+    height : 100vh;
+    width : 100%;
+    position: absolute;
+    z-index: -10;
+    top : 0;
+    left : 0;
+}
+
+/*-- Css code for Search bar--*/
+
+/* The overlay effect with black background */
+
+
+
+
+
+  

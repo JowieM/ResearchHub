@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "particlesjs": "^2.2.3"
+  }
+}
